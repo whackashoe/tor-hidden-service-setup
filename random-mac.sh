@@ -1,4 +1,5 @@
 #!/bin/sh
 #MAC ADDRESS RANDOMIZER
+#http://www.commandlinefu.com/commands/view/8471/generat-a-random-mac-address
 
-2>/dev/null dd if=/dev/urandom bs=1 count=6 | od -t x1 | sed '2d;s/^0\+ //;s/ /:/g'
+(date; cat /proc/interrupts) | md5sum | sed -r 's/^(.{10}).*$/\1/; s/([0-9a-f]{2})/\1:/g; s/:$//;'
