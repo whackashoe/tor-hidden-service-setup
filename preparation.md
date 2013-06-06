@@ -1,3 +1,5 @@
+# Preparation
+
 host machine : linux
 
 * `TOR` is what we will use to route traffic
