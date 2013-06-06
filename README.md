@@ -17,4 +17,4 @@ This is a work in progress, an alpha version of this guide if you will. Because 
 
 ---
 
-![14KHd2J6kb9y1Y6izVrXCeaEAe6tXaCVqY](https://github.com/whackashoe/tor-hidden-service-setup/blob/master/bitcoin-donate.png?raw=true)14KHd2J6kb9y1Y6izVrXCeaEAe6tXaCVqY
+![14KHd2J6kb9y1Y6izVrXCeaEAe6tXaCVqY](https://github.com/whackashoe/tor-hidden-service-setup/blob/master/bitcoin-donate.png?raw=true)`14KHd2J6kb9y1Y6izVrXCeaEAe6tXaCVqY`
