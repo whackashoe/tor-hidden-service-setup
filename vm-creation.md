@@ -46,3 +46,5 @@ Run `randommac.sh` and enter its output into the MAC address textbox:
 Virt type: kvm
 
 Architecture: Make it match the iso (and hopefully your host computer)
+
+##### [Next :: VM Installation](https://github.com/whackashoe/tor-hidden-service-setup/blob/master/vm-installation.md)

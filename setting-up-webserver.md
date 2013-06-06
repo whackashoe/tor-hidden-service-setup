@@ -49,3 +49,5 @@ Start tor
 
 
 Ensure neither have any errors in configuration.
+
+###### [Next :: Finishing](https://github.com/whackashoe/tor-hidden-service-setup/blob/master/finishing.md)

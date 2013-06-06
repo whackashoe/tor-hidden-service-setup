@@ -68,3 +68,6 @@ Now, run `middlebox.sh` to setup IPTABLES rules
 And finally, start TOR
 
 	sudo tor
+
+
+##### [Next :: VM Creation](https://github.com/whackashoe/tor-hidden-service-setup/blob/master/vm-creation.md)
