@@ -7,5 +7,6 @@ sudo service bind9 stop
 sudo ifdown vnet0
 sudo ifup vnet0
 sudo /etc/init.d/dnsmasq restart
-sudo tor
+sudo tor &
+sudo ./middlebox.sh
 virt-manager
