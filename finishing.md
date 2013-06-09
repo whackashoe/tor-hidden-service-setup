@@ -37,3 +37,5 @@ If they are the same... no good. You need to fix the networking bridge. If they 
 Go to your host machine, and open the tor browser bundle and navigate to the address listed in /home/{username}/hidden-service/hostname
 
 If tor is working correctly, you will have your hidden service webpage come up.
+
+From now on, you should run the `host_script.sh` program on the.. host machine to initialize your network and start your VM.
