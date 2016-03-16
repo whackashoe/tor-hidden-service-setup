@@ -13,8 +13,8 @@ Part 4: [Setting up the Webserver](https://github.com/whackashoe/tor-hidden-serv
 
 Part 5: [Finishing](https://github.com/whackashoe/tor-hidden-service-setup/blob/master/finishing.md)
 
-This is a work in progress, an alpha version of this guide if you will. Because it has not had much scrutiny there may still be security holes, and it cannot be considered "safe". However, it is a much better starting point than most simplistic hidden service setups. If you see any room for improvement please make a pull request or create an issue. Thanks. 
+It cannot be considered "safe". However, it is a much better starting point than most simplistic hidden service setups. If you see any room for improvement please make a pull request or create an issue. Thanks. 
 
 ---
 
-![14KHd2J6kb9y1Y6izVrXCeaEAe6tXaCVqY](https://github.com/whackashoe/tor-hidden-service-setup/blob/master/bitcoin-donate.png?raw=true)`14KHd2J6kb9y1Y6izVrXCeaEAe6tXaCVqY`
+![1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv](https://github.com/whackashoe/tor-hidden-service-setup/blob/master/bitcoin-donate.png?raw=true)`1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv`
